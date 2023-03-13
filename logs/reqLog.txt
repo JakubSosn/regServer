@@ -89,3 +89,12 @@
 13032023	12:12:53	245651f9-5d15-4669-a439-11689275a656	POST	undefined	/auth
 13032023	12:29:04	5315eab6-b89a-4596-8a83-96f2fcc099c0	POST	undefined	/auth
 13032023	13:04:50	4f63a9d0-d355-40b0-9375-fb230d74f2c3	POST	undefined	/auth
+13032023	14:07:03	a7b8c095-bd91-4f1f-8bcb-4c9bbfbf4066	POST	undefined	/auth
+13032023	14:07:33	692ea58a-0b00-4da1-bfd5-4faddce2f971	GET	undefined	/employees
+13032023	14:07:42	952a585c-dbd0-4ed9-ba9f-545df7cff6d5	GET	undefined	/employees
+13032023	14:11:57	2cb36bf3-3fe8-4176-bbe9-cb42c92b98c7	POST	undefined	/auth
+13032023	14:12:49	09788ad2-2c02-4680-9d48-e73355b3d08b	POST	undefined	/auth
+13032023	14:13:02	6102bd5a-a788-44b7-988d-a6fb18f218b8	GET	undefined	/employees
+13032023	14:13:18	81cf3b2c-8e6c-4902-b3cc-b23147473d7b	POST	undefined	/employees
+13032023	14:14:09	2f587241-ff5a-49be-b05a-6e74149961c2	POST	undefined	/auth
+13032023	14:14:16	99a14cad-50e8-4021-a327-aa7f91bea5f8	POST	undefined	/employees
