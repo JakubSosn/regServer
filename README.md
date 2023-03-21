@@ -5,3 +5,4 @@ Możliwości API:
 1. Rejestracja 
 2. Logowanie
 3. Tworzenie access i refresh tokena ( JWT )
+4. Baza danych - MongoDB
